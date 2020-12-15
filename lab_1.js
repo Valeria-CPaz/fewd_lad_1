@@ -22,5 +22,5 @@ var six = "indigo";
 var seven = "violet";
 
 console.log(phrase + ", " + one + ", " + two + ", " + three + ", " + four + ", " + five + ", " + six + ", " +
-seven + " " + endingPhrase)
+seven + " " + endingPhrase);
 
